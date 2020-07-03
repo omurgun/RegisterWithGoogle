@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RegisterWithGoogle</string>
+    <string name="home_name">Home</string>
+
+    <string name="create_account">Sıgn up</string>
+    <string name="new_create_account">Create new account</string>
+    <string name="i_have_account">Sıgn ın</string>
+    <string name="have_account">login with your account</string>
+    <string name="log_out">Sign out</string>
+    <string name="create_new_account">create Account</string>
+    <string name="phone_continue">continue</string>
+
+    <string name="phone_number">Phone number...</string>
+    <string name="code_number">Enter code...</string>
+    <string name="username">Username...</string>
+    <string name="password">Password...</string>
+
+</resources>
